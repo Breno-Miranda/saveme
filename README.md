@@ -1,3 +1,6 @@
-# saveme
+# saveme ( Aplicação de cartões vituais )
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/js-4onwdm)
+### Partes iniciais do projeto
+
+- C&C de pessoas para pessoas.
+- Criação de telas em javasscript e html.
